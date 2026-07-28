@@ -6,7 +6,7 @@ An AI-powered Applicant Tracking System (ATS) built with **Python, NLP, Machine 
 
 ## 🚀 Live Demo
 
-Coming Soon
+
 https://resume-screening-nlp-8xw8xu67rkj2bttdy55yjf.streamlit.app/
 ---
 
